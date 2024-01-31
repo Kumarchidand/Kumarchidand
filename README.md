@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**Kumarchidand/Kumarchidand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Kumarchidand/Kumarchidand** is a ✨ _special_ page
 
 - 🔭 I’m currently studying in B.tech of ECE.
 - 🌱 I’m currently learning Js,java,Embedded designing
